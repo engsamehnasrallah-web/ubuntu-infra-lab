@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# VMware working files (never commit VM disks/snapshots)
+*.vmdk
+*.vmx
+*.vmxf
+*.nvram
+*.vmsd
+*.vmsn
+*.log
